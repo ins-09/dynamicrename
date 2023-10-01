@@ -1,0 +1,18 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": true,
+    "window.zoomLevel": 1,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "indenticator.width": 0.1,
+    "indenticator.color.dark": "rgba(117, 230, 125,0.1)",
+    "editor.glyphMargin": false,
+    "workbench.statusBar.visible": false
+}

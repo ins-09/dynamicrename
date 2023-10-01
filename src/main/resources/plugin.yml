@@ -1,0 +1,9 @@
+name: dynamicrename
+main: com.ins09.dynrename.DynamicRename
+version: 1.0.0
+author: ins09
+api-version: 1.15
+commands:
+  rename:
+    description: Command Dynamic Rename
+    usage: /<command>
